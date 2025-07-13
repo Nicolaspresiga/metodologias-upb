@@ -1,5 +1,6 @@
 ## Comandos para trabajar con ramas
 
+Descripción
 
 1. Crear una nueva rama local con mi nombre:
 ```bash
