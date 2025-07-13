@@ -1,7 +1,7 @@
 # Metodologías de desarrollo de software UPB
 
 ## Nombre del equipo
-NombreCreativoDelEquipo
+DevMinds
 
 ### Integrantes:
 - Nombre del primer integrante.
