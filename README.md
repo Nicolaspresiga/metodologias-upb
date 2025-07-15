@@ -4,5 +4,5 @@
 DevMinds
 
 ### Integrantes:
-- Nombre del primer integrante.
-- Nombre del segundo integrante.
+- Paula Andrea Sandolval
+- Nicolas Marin Presiga
