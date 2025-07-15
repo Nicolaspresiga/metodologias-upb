@@ -2,7 +2,7 @@
 
 1. Crear una nueva rama local con mi nombre:
 ```bash
-git checkout -b paula
+git branch paula
 
 2. Crear un nuevo commit en dicha rama local:
 ```bash
