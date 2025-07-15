@@ -4,5 +4,5 @@
 DevMinds
 
 ### Integrantes:
-- Paula Andrea Sandolval
+- Paula Andrea Sandoval
 - Nicolas Marin Presiga
