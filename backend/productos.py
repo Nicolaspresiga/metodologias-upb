@@ -1,5 +1,6 @@
 from backend.hoja_productos import obtenerHojaDeProductos
 
+
 hoja = obtenerHojaDeProductos()
 
 def listarProductos():
@@ -12,9 +13,8 @@ def listarProductos():
 
         if any(valores): 
             filas.append([idx] + valores)
-
     return filas
-
+    
 
 def consultarProducto(ID):
     refFilas = hoja.iter_rows(min_row=2, min_col=1, max_col=4)
