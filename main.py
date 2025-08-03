@@ -1,5 +1,3 @@
-from backend.productos import listarProductos
+from frontend.productos import main
 
-productos = listarProductos()
-
-print(productos)
+main()
