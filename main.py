@@ -1,3 +1,9 @@
-from frontend.productos import main
+from backend.productos import actualizarProducto
 
-main()
+#crearProducto ("6", "Pollo", "20000", "4")
+
+#eliminarProducto ("5")
+
+actualizarProducto("6", "Pollo", "17000", "10")
+
+
