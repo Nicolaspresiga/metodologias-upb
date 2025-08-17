@@ -1,9 +1,19 @@
-from backend.productos import actualizarProducto
+from frontend.productos import mostrarMenuDeProductos
 
-#crearProducto ("6", "Pollo", "20000", "4")
+def main():
+    while True:
+        print("\n=== MENÚ PRINCIPAL ===")
+        print("1. Productos")
+        print("2. Salir")
 
-#eliminarProducto ("5")
+        opcion = input("Seleccione una opción: ").strip()
+        if opcion == "1":
+            mostrarMenuDeProductos()
+        elif opcion == "2":
+            print("¡Hasta luego!")
+            break
+        else:
+            print("Opción no válida.")
 
-actualizarProducto("6", "Pollo", "17000", "10")
-
-
+if __name__ == "__main__":
+    main()
